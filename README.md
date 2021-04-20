@@ -1,3 +1,8 @@
+basic_cv
+
+Just a personal site with entry level basic cv data
+
+Theme: Cayman theme
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/infinite-enigma/basic_cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
