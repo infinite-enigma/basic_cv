@@ -1,42 +1,13 @@
-basic_cv
-Preview: https://infinite-enigma.github.io/basic_cv/
+HTML Personal Site (v0.0)
+
+Preview: https://infinite-enigma.github.io/html_basic_personal-site/
+
 Just a personal site with entry level basic cv data
 
-Theme: Cayman theme
-## Welcome to GitHub Pages
+New Look applying simple css elements (v1.0)
 
-You can use the [editor on GitHub](https://github.com/infinite-enigma/basic_cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Preview: https://infinite-enigma.github.io/html_basic_personal-siteV2cssMod/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Repository: https://github.com/infinite-enigma/html_basic_personal-siteV2cssMod
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/infinite-enigma/basic_cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Improved the html_basic_personal-site with css entry level elements which contains basic cv dataImproved the html_basic_personal-site with css entry level elements which contains basic cv data
