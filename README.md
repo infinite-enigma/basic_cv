@@ -1,5 +1,5 @@
 basic_cv
-
+Preview: https://infinite-enigma.github.io/basic_cv/
 Just a personal site with entry level basic cv data
 
 Theme: Cayman theme
